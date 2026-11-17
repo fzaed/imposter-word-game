@@ -1,0 +1,9 @@
+{
+  "name": "imposter-word-game",
+  "version": "1.0.0",
+  "description": "Multiplayer Find the Imposter one-word clue party game",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}
